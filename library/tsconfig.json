@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"module": "esnext",
+		"moduleResolution": "bundler",
+		"jsx": "react-jsx",
+		"strict": true,
+		"outDir": "out",
+		"sourceMap": true,
+		"esModuleInterop": true,
+		"allowJs": true
+	},
+	"exclude": [
+		"dist",
+		"node_modules"
+	]
+}
